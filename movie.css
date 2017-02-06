@@ -37,4 +37,17 @@ margin: 0 auto;
   border-radius: 20px;
   box-shadow: 5px 5px 5px gray;
 }
+#left{
+width:550px;
+  
+}
+#rotten {
+background-image: url('https://webster.cs.washington.edu/images/rottenlargebg.png');
+  background-size:83px;
+}
+#rating {
+font-size:48pt;
+  color:red;
+  font-weight:bold;
+}
 
