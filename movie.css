@@ -13,7 +13,7 @@ font-size: 10pt;
   min-height:100%;
 }
 p {
-  color:blue;
+  background-color:blue;
 }
 
 #banner {
