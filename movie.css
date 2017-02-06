@@ -11,12 +11,12 @@ font-size: 10pt;
 
 
 #banner {
+  min-width:100%;
   background-image: url('https://webster.cs.washington.edu/images/rancidbannerbg.png');
   background-size: 50px;
 }
 #bnr {
   display:block;
-margin:auto;
-  width:auto;
+margin: 0 auto;
 }
 
