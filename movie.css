@@ -39,6 +39,7 @@ margin: 0 auto;
   box-shadow: 5px 5px 5px gray;
 }
 #left{
+  float:left;
 width:550px;
   
 }
@@ -50,5 +51,13 @@ background-image: url('https://webster.cs.washington.edu/images/rottenlargebg.pn
 font-size:48pt;
   color:red;
   font-weight:bold;
+}
+#genOverview{
+background-color:#A2B964;
+  width:250px;
+  padding:10pt;
+  font-family:sans-serif;
+  font-size:10pt;
+  float:right;
 }
 
