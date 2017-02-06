@@ -37,8 +37,10 @@ width:800px;
 margin: 0 auto;
   border-radius: 20px;
   box-shadow: 5px 5px 5px gray;
+  overflow:auto;
 }
 #left{
+  overflow:auto;
   float:left;
 width:550px;
 }
@@ -52,6 +54,7 @@ font-size:48pt;
   font-weight:bold;
 }
 #reviews {
+  overflow:auto;
  background-color:#EEEEEE;
 }
 #rc1 {
@@ -66,6 +69,7 @@ width:47%;
 }
 
 #genOverview{
+  overflow:auto;
 background-color:#A2B964;
   -moz-box-sizing:    border-box;
    -webkit-box-sizing: border-box;
