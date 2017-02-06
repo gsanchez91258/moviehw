@@ -71,10 +71,8 @@ width:47%;
 #genOverview{
   overflow:auto;
 background-color:#A2B964;
-  -moz-box-sizing:    border-box;
-   -webkit-box-sizing: border-box;
-    box-sizing:        border-box;
   width:250px;
+  max-width:250px;
   padding:10pt;
   margin:0px;
   font-family:sans-serif;
