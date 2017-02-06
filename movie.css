@@ -1,11 +1,18 @@
 
+
 body {
 margin: 0px;
 padding: 0px;
 width:100%;
 background-image: url("webster.cs.washington.edu/images/moviebg.png");
-font-size: 10;
 font-family: sans-serif;
+font-size: 10;
+
 }
 
+#banner {
+  
+  background-image: url("webster.cs.washington.edu/images/rancidbannerbg.png");
+  
+}
 
