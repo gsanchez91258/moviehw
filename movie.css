@@ -33,6 +33,7 @@ margin: 0 auto;
 
 #overallContent {
 width:800px;
+  padding:10px;
 margin: 0 auto;
   border-radius: 20px;
   box-shadow: 5px 5px 5px gray;
