@@ -73,11 +73,13 @@ width:47%;
 background-color:#A2B964;
   width:250px;
   max-width:250px;
-  padding:10pt;
   margin:0px;
   font-family:sans-serif;
   font-size:10pt;
   float:right;
+}
+#gInfo {
+padding:10pt;
 }
 
 
