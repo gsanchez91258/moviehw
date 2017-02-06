@@ -19,4 +19,11 @@ text-align:center;
   display:block;
 margin: 0 auto;
 }
+#info {
+text-align:center;
+font-size:24pt;
+  font-family:serif;
+  text-shadow: 3px 3px #999999;
+  font-weight:bold;
+}
 
