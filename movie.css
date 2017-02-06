@@ -102,5 +102,9 @@ background-color:#A2B964;
 #gInfo {
 padding:10pt;
 }
-
+dt {
+font-weight:bold;
+  margin-top:5pt;
+  margin-bottom:5pt;
+}
 
