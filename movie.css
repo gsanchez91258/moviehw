@@ -101,6 +101,7 @@ background-color:#A2B964;
 }
 #gInfo {
 padding:10pt;
+  text-align:left;
 }
 dt {
 font-weight:bold;
