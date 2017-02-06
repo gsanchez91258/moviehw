@@ -109,4 +109,7 @@ font-weight:bold;
 dd {
 margin-bottom:10pt;
 }
-
+ul {
+    padding: 0;
+    list-style-type: none;
+}
