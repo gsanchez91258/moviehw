@@ -26,4 +26,8 @@ font-size:24pt;
   text-shadow: 3px 3px #999999;
   font-weight:bold;
 }
+#in {
+display:block;
+margin: 0 auto;
+}
 
