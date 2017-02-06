@@ -1,7 +1,7 @@
 
 
 body {
-height:100%;
+height:auto;
 margin: 0%;
 padding: 0%;
 background-image:url("https://webster.cs.washington.edu/images/moviebg.png") repeat;
@@ -10,12 +10,6 @@ font-size: 10pt;
 }
 
 
-p {
-  color:blue;
-}
-q {
-color:red;
-}
 #banner {
   
   background-image: url("webster.cs.washington.edu/images/rancidbannerbg.png") repeat;
