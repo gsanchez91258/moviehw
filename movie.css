@@ -35,7 +35,7 @@ margin: 0 auto;
 #overallContent {
 width:800px;
   text-align: center;
-margin: 10px;
+margin: auto;
   border-radius: 20px;
   box-shadow: 5px 5px 5px gray;
   overflow:auto;
