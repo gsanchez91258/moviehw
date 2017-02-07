@@ -113,3 +113,15 @@ ul {
     padding: 0;
     list-style-type: none;
 }
+#pg {
+text-align:center;
+  clear:left;
+  clear:right;
+  background-color:#A2B964;
+  padding:5px;
+}
+#valid {
+float: bottom;
+  float: right;
+  clear: left;
+}
