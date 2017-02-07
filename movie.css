@@ -47,6 +47,7 @@ overflow:auto;
   overflow:auto;
   float:left;
 width:550px;
+  height:100%;
 }
 #rotten {
 background-image: url('https://webster.cs.washington.edu/images/rottenlargebg.png');
