@@ -43,6 +43,11 @@ margin: 10px;
   box-shadow: 5px 5px 5px gray;
   overflow:auto;
 }
+#content {
+    float: left;
+    position: relative;
+    left: -50%;
+}
 #left{
   overflow:auto;
   float:left;
