@@ -47,7 +47,7 @@ overflow:auto;
   display: table-row;
 }
 #left{
-  overflow:auto;
+  overflow:hidden;
   display: table-cell;
   float:left;
 width:550px;
@@ -65,20 +65,20 @@ font-size:48pt;
   font-weight:bold;
 }
 #reviews {
-  overflow:auto;
+  overflow:hidden;
  background-color:#EEEEEE;
     height:100%;
 }
 #rc1 {
   float:left;
-  overflow:auto;
+  overflow:hidden;
 width:47%;
   height:100%;
   margin:1%;
 }
 #rc2 {
   float:right;
-  overflow:auto;
+  overflow:hidden;
 width:47%;
   height:100%;
   margin:1%
