@@ -44,9 +44,11 @@ margin: auto;
 }
 #content {
 overflow:auto;
+  display: table-row;
 }
 #left{
   overflow:auto;
+  display: table-cell;
   float:left;
 width:550px;
   max-width:550px;
@@ -105,6 +107,7 @@ margin-bottom:10pt;
 }
 #genOverview{
   overflow:auto;
+    display: table-cell;
 background-color:#A2B964;
   width:250px;
   max-width:250px;
