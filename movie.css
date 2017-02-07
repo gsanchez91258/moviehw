@@ -67,12 +67,14 @@ font-size:48pt;
   float:left;
   overflow:auto;
 width:47%;
+  height:100%;
   margin:1%;
 }
 #rc2 {
   float:right;
   overflow:auto;
 width:47%;
+  height:100%;
   margin:1%
 }
 .review {
